@@ -16,8 +16,7 @@
 
 ### 🔨 currently working on
 
-- software engineering internship @ **DigiKey**
-- messing around with Claude Code and building passion projects
+- building apps for my workflow in content @thoughtsfromnate all platforms
 
 ---
 
