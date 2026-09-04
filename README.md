@@ -1,6 +1,6 @@
 # hey, i'm nate
 
-software engineering intern • creative • builder
+software engineering • creative • builder
 
 ---
 
