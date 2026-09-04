@@ -1,7 +1,5 @@
 # hey, i'm nate
 
-software engineering • creative • builder
-
 ---
 
 ### 🛠 languages & tools
